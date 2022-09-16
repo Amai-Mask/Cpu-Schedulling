@@ -60,7 +60,7 @@ int main()
     awt=awt/n;
     for(i=0; i<n; i++)
     {
-        printf("\nP%d\t %d\t %d\t %d \t %d \t %d",ser[i],at[i],bt[i],ct[i],tat[i],wt[i]);
+        printf("\nP%d\t %d\t %d\t %d \t %d \t %d",p[i],at[i],bt[i],ct[i],tat[i],wt[i]);
     }
     printf("\naverage turnaround time is %f",atat);
 
